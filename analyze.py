@@ -4,7 +4,7 @@
 # fleet team fixes the risky ones first.
 #
 # fleet_history.csv has one row per car (120 of them) and a "broke_down" column (1 = it later
-# broke down).
+# broke down). 
 #
 # TODO(you), with IBM Bob and pandas:
 #   1. Load fleet_history.csv.
